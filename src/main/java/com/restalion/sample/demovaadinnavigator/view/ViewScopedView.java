@@ -4,7 +4,7 @@ import javax.annotation.PostConstruct;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.restalion.sample.demovaadinnavigator.Greeter;
+import com.restalion.sample.demovaadinnavigator.service.Greeter;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.spring.annotation.SpringView;
